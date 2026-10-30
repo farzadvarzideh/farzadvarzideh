@@ -1,7 +1,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="850" height="310"
-     viewBox="0 0 850 310">
+     width="850" height="290"
+     viewBox="0 0 850 290">
 
   <style>
     .title {
@@ -9,7 +9,7 @@
       font: bold 16px monospace;
     }
     .description {
-      fill: #60A5FA;
+      fill: #C9D1D9;
       font: 14px monospace;
     }
   </style>
