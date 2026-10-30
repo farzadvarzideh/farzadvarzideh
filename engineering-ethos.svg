@@ -1,0 +1,46 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="850" height="310"
+     viewBox="0 0 850 310">
+
+  <style>
+    .title {
+      fill: #3FB950;
+      font: bold 16px monospace;
+    }
+    .description {
+      fill: #60A5FA;
+      font: 14px monospace;
+    }
+  </style>
+
+  <text x="15" y="30" class="title">
+    01. BUILD WITH PURPOSE
+  </text>
+  <text x="35" y="55" class="description">
+    Engineer systems that are reliable, scalable,
+  </text>
+  <text x="35" y="75" class="description">
+    and built to withstand complexity.
+  </text>
+
+  <text x="15" y="120" class="title">
+    02. UNDERSTAND THE INTERNALS
+  </text>
+  <text x="35" y="145" class="description">
+    Go beyond abstractions. Explore how systems
+  </text>
+  <text x="35" y="165" class="description">
+    behave, interact, and fail.
+  </text>
+
+  <text x="15" y="210" class="title">
+    03. THINK LIKE AN ADVERSARY
+  </text>
+  <text x="35" y="235" class="description">
+    Question assumptions. Challenge boundaries.
+  </text>
+  <text x="35" y="255" class="description">
+    Understand security from the attacker's perspective.
+  </text>
+</svg>
