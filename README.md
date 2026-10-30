@@ -1,11 +1,16 @@
 
 <div align="left">
-  <img src="./banner.png" alt="Farzad Varzideh — Backend Engineering and Offensive Security" width="100%" />
-
-  ![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-RED_TEAM-FF0000?style=flat-square&labelColor=808080)
-  ![Backend](https://img.shields.io/badge/FOUNDATION-BACKEND_ENGINEERING-60A5FA?style=flat-square&labelColor=808080)
-  ![Status](https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-FFFFFF?style=flat-square&labelColor=808080)
+  <img src="./banner.png" alt="Farzad Varzideh" width="100%" />
 </div>
+
+<sub><code>~/profile</code></sub>
+
+---
+
+![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-RED_TEAM-FF0000?style=flat-square&labelColor=808080)
+![Backend](https://img.shields.io/badge/FOUNDATION-BACKEND_ENGINEERING-60A5FA?style=flat-square&labelColor=808080)
+![Status](https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-FFFFFF?style=flat-square&labelColor=808080)
+
 
 ---
 
