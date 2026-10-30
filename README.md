@@ -12,19 +12,19 @@
 
 ---
 
-### `01 / operator console`
+### `./operator-console`
 
 <div align="left">
   <img src="./terminal.svg" alt="Terminal introduction and mission" width="100%" />
 </div>
 
-### `02 / operations dashboard`
+### `./operations-dashboard`
 
 | <img src="./red-team.svg" alt="Primary objective: Red Team Operations" width="100%" /> | <img src="./backend.svg" alt="Engineering foundation: Backend Development" width="100%" /> |
 |:---|:---|
 | <img src="./systems.svg" alt="Systems: Linux and Networking" width="100%" /> | <img src="./progress.svg" alt="Status: Learning and Building" width="100%" /> |
 
-### `03 / tech arsenal`
+### `./tech-arsenal`
 
 **Languages & Scripting**
 
@@ -45,7 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![ESLint](https://img.shields.io/badge/ESLint-0D1117?style=for-the-badge&logo=eslint&logoColor=4B32C3)
 
-### `04 / next objectives`
+### `./next-objectives`
 
 ```yaml
 backend:
@@ -61,7 +61,7 @@ offensive_security:
   - PTS
 ```
 
-### `05 / selected work`
+### `./selected-work`
 
 > Projects and experiments will appear here as they are published.
 
@@ -70,7 +70,7 @@ offensive_security:
 -->
 
 
-### `06 / engineering ethos`
+### `./engineering-ethos`
 
 <img src="./engineering-ethos.svg" alt="Engineering Philosophy" width="100%" />
 
