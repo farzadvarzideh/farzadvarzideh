@@ -15,14 +15,14 @@
 ### `01 / operator console`
 
 <div align="center">
-  <img src="./assets/terminal.svg" alt="Terminal introduction and mission" width="100%" />
+  <img src="./terminal.svg" alt="Terminal introduction and mission" width="100%" />
 </div>
 
 ### `02 / operations dashboard`
 
-| <img src="./assets/red-team.svg" alt="Primary objective: Red Team Operations" width="100%" /> | <img src="./assets/backend.svg" alt="Engineering foundation: Backend Development" width="100%" /> |
+| <img src="./red-team.svg" alt="Primary objective: Red Team Operations" width="100%" /> | <img src="./assets/backend.svg" alt="Engineering foundation: Backend Development" width="100%" /> |
 |:---:|:---:|
-| <img src="./assets/systems.svg" alt="Systems: Linux and Networking" width="100%" /> | <img src="./assets/progress.svg" alt="Status: Learning and Building" width="100%" /> |
+| <img src="./systems.svg" alt="Systems: Linux and Networking" width="100%" /> | <img src="./assets/progress.svg" alt="Status: Learning and Building" width="100%" /> |
 
 ### `03 / tech arsenal`
 
