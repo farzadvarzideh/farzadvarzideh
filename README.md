@@ -49,7 +49,7 @@
 
 ```yaml
 languages:
-  - C#
+  - CC#
 
 backend:
   - NestJS
