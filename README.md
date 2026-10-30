@@ -1,4 +1,3 @@
-
 <div align="left">
   <img src="./banner.png" alt="Farzad Varzideh — Backend Engineering and Offensive Security" width="100%" />
 
@@ -66,12 +65,13 @@ offensive_security:
 **[Project Name](https://github.com/YOUR_USERNAME/REPOSITORY)** — Short description.
 -->
 
-### `06 / github signal`
+### `06 / engineering ethos`
 
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farzafvar4030&theme=github_dark" alt="GitHub Statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farzafvar4030&theme=github_dark" alt="Most Used Languages" />
-</div>
+| PRINCIPLE | APPROACH |
+|:---|:---|
+| ![Build](https://img.shields.io/badge/01-BUILD-60A5FA?style=flat-square&labelColor=0D1117) | Engineer with precision. |
+| ![Understand](https://img.shields.io/badge/02-UNDERSTAND-3FB950?style=flat-square&labelColor=0D1117) | Look beneath the abstraction. |
+| ![Secure](https://img.shields.io/badge/03-SECURE-F85149?style=flat-square&labelColor=0D1117) | Think offensively. Design defensively. |
 
 ---
 
