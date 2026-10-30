@@ -3,8 +3,6 @@
   <img src="./banner.png" alt="Farzad Varzideh" width="100%" />
 </div>
 
-<sub><code>~/profile</code></sub>
-
 ---
 
 ![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-RED_TEAM-FF0000?style=flat-square&labelColor=808080)
