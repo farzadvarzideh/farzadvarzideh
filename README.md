@@ -65,6 +65,14 @@ offensive_security:
 <!-- Add projects here using this template:
 **[Project Name](https://github.com/YOUR_USERNAME/REPOSITORY)** — Short description.
 -->
+### `05 / selected work`
+
+**[PollBox API](https://github.com/Farzafvar4030/pollbox-api)**
+
+A RESTful polling API built with Node.js, Express,
+TypeScript, and MongoDB.
+
+`Node.js` · `TypeScript` · `Express` · `MongoDB`
 
 
 ### `06 / engineering ethos`
