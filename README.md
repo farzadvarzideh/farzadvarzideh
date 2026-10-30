@@ -4,12 +4,6 @@
 
 <br />
 
-# Farzad Varzideh
-
-**Backend Developer · Aspiring Red Teamer**
-
-<sub>Engineering the future, securely.</sub>
-
 <br /><br />
 
 ![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-OFFENSIVE_SECURITY-0d1117?style=for-the-badge&labelColor=172554&color=2563eb)
