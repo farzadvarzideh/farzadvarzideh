@@ -68,19 +68,6 @@ offensive_security:
 
 ### `06 / engineering ethos`
 
-```text
-01. BUILD WITH PURPOSE
-    Engineer systems that are reliable, scalable,
-    and built to withstand complexity.
-
-02. UNDERSTAND THE INTERNALS
-    Go beyond abstractions. Explore how systems
-    behave, interact, and fail.
-
-03. THINK LIKE AN ADVERSARY
-    Question assumptions. Challenge boundaries.
-    Understand security from the attacker's perspective.
-```
+<img src="./engineering-ethos.svg" alt="Engineering Philosophy" width="100%" />
 
 > Curiosity drives exploration. Understanding builds capability.
-> 
