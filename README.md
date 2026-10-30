@@ -66,8 +66,10 @@ offensive_security:
 **[Project Name](https://github.com/YOUR_USERNAME/REPOSITORY)** — Short description.
 -->
 
+
 ### `06 / engineering ethos`
 
 <img src="./engineering-ethos.svg" alt="Engineering Philosophy" width="100%" />
 
 > Curiosity drives exploration. Understanding builds capability.
+> 
