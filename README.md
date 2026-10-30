@@ -48,6 +48,9 @@
 ### `./next-objectives`
 
 ```yaml
+languages:
+  - C#
+
 backend:
   - NestJS
   - Multi-tenancy
