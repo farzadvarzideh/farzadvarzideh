@@ -19,7 +19,7 @@
 
 | <img src="./red-team.svg" alt="Primary objective: Red Team Operations" width="100%" /> | <img src="./backend.svg" alt="Engineering foundation: Backend Development" width="100%" /> |
 |:---|:---|
-| <img src="./systems.sg" alt="Systems: Linux and Networking" width="100%" /> | <img src="./progress.svg" alt="Status: Learning and Building" width="100%" /> |
+| <img src="./systems.svg" alt="Systems: Linux and Networking" width="100%" /> | <img src="./progress.svg" alt="Status: Learning and Building" width="100%" /> |
 
 ### `03 / tech arsenal`
 
