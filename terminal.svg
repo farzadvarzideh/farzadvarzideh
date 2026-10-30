@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="514" viewBox="0 0 920 514">
+<rect width="920" height="514" rx="14" fill="#0D1117"/>
+<rect x="1" y="1" width="918" height="512" rx="13" fill="none" stroke="#25364A"/>
+<circle cx="24" cy="26" r="6" fill="#3FB950"/>
+<circle cx="45" cy="26" r="6" fill="#58A6FF"/>
+<circle cx="66" cy="26" r="6" fill="#FFFFFF"/>
+<text x="700" y="31" fill="#A8B6C8" font-size="13" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">farzad@arch: ~</text>
+<path d="M 20 48 H 900" stroke="#25364A"/>
+<text x="28" y="80" fill="#3FB950" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">farzad@arch:~$ whoami</text>
+<text x="28" y="110" fill="#FFFFFF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">Farzad Varzideh</text>
+<text x="28" y="140" fill="#FFFFFF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace"></text>
+<text x="28" y="170" fill="#3FB950" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">farzad@arch:~$ cat mission.txt</text>
+<text x="28" y="200" fill="#FFFFFF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">&gt; Build beyond functionality. Understand what lies beneath.</text>
+<text x="28" y="230" fill="#FFFFFF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">&gt; Explore systems from architecture to their weakest points.</text>
+<text x="28" y="260" fill="#FFFFFF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">&gt; Write code with an engineer&#x27;s precision.</text>
+<text x="28" y="290" fill="#FFFFFF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">&gt; Analyze it with an attacker&#x27;s mindset.</text>
+<text x="28" y="320" fill="#FFFFFF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">&gt; Turn curiosity into knowledge, and knowledge into capability.</text>
+<text x="28" y="350" fill="#FFFFFF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">&gt;</text>
+<text x="28" y="380" fill="#58A6FF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">&gt; Primary objective: Red Team Operations.</text>
+<text x="28" y="410" fill="#FFFFFF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace"></text>
+<text x="28" y="440" fill="#3FB950" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">farzad@arch:~$ ls ./roadmap</text>
+<text x="28" y="470" fill="#58A6FF" font-size="15" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">backend/   systems/   offensive-security/</text>
+</svg>
