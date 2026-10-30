@@ -5,7 +5,7 @@
   <p><strong>Backend Developer · Aspiring Red Teamer</strong></p>
   <p><em>Engineering the future, securely.</em></p>
 
-  ![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-RED_TEAM-FF0000?style=flat-square&labelColor=808080)
+  ![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-RED_TEAM-60A5FA?style=flat-square&labelColor=808080)
   ![Backend](https://img.shields.io/badge/FOUNDATION-BACKEND_ENGINEERING-0000FF?style=flat-square&labelColor=808080)
   ![Status](https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-FFFFFF?style=flat-square&labelColor=0D1117)
 </div>
