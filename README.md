@@ -1,22 +1,24 @@
-<div align="center">
+
+<div align="left">
   <img src="./banner.png" alt="Farzad Varzideh — Backend Engineering and Offensive Security" width="100%" />
 
- ![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-RED_TEAM-FF0000?style=flat-square&labelColor=808080)
-![Backend](https://img.shields.io/badge/FOUNDATION-BACKEND_ENGINEERING-60A5FA?style=flat-square&labelColor=808080)
-![Status](https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-FFFFFF?style=flat-square&labelColor=808080)
+  ![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-RED_TEAM-FF0000?style=flat-square&labelColor=808080)
+  ![Backend](https://img.shields.io/badge/FOUNDATION-BACKEND_ENGINEERING-60A5FA?style=flat-square&labelColor=808080)
+  ![Status](https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-FFFFFF?style=flat-square&labelColor=808080)
+</div>
 
 ---
 
 ### `01 / operator console`
 
-<div align="center">
+<div align="left">
   <img src="./terminal.svg" alt="Terminal introduction and mission" width="100%" />
 </div>
 
 ### `02 / operations dashboard`
 
 | <img src="./red-team.svg" alt="Primary objective: Red Team Operations" width="100%" /> | <img src="./backend.svg" alt="Engineering foundation: Backend Development" width="100%" /> |
-|:---:|:---:|
+|:---|:---|
 | <img src="./systems.svg" alt="Systems: Linux and Networking" width="100%" /> | <img src="./progress.svg" alt="Status: Learning and Building" width="100%" /> |
 
 ### `03 / tech arsenal`
@@ -66,12 +68,13 @@ offensive_security:
 
 ### `06 / github signal`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farzafvar4030&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=3FB950&bg_color=0D1117" alt="GitHub stats" />
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farzafvar4030&theme=github_dark" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farzafvar4030&theme=github_dark" alt="Most Used Languages" />
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
   <sub><strong>BUILD WITH PRECISION · THINK BEYOND THE SURFACE · KEEP EXPLORING</strong></sub>
 </div>
