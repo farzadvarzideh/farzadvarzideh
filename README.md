@@ -1,5 +1,5 @@
 
-<div align="left">
+<div align="center">
   <img src="./banner.png" alt="Farzad Varzideh" width="100%" />
 </div>
 
