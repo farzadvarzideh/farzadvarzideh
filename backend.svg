@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="112" viewBox="0 0 440 112"><rect x="1" y="1" width="438" height="110" rx="12" fill="#0D1117" stroke="#25364A"/><rect x="18" y="22" width="4" height="68" rx="2" fill="#3FB950"/><text x="36" y="45" fill="#A8B6C8" font-size="13" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">ENGINEERING FOUNDATION</text><text x="36" y="78" fill="#3FB950" font-size="19" font-weight="bold" font-family="DejaVu Sans Mono, Consolas, monospace">BACKEND DEVELOPMENT</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="112" viewBox="0 0 440 112">
+  <rect x="1" y="1" width="438" height="110" rx="12" fill="#0D1117" stroke="#25364A"/>
+  <rect x="18" y="22" width="4" height="68" rx="2" fill="#58A6FF"/>
+  <text x="36" y="45" fill="#A8B6C8" font-size="13" font-weight="normal" font-family="DejaVu Sans Mono, Consolas, monospace">ENGINEERING FOUNDATION</text>
+  <text x="36" y="78" fill="#58A6FF" font-size="19" font-weight="bold" font-family="DejaVu Sans Mono, Consolas, monospace">BACKEND DEVELOPMENT</text>
+</svg>
