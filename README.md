@@ -5,9 +5,11 @@
 
 ---
 
-![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-RED_TEAM-FF0000?style=flat-square&labelColor=808080)
-![Backend](https://img.shields.io/badge/ENGINEERING_FOUNDATION-BACKEND_DEVELOPMENT-60A5FA?style=flat-square&labelColor=808080)
-![Status](https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-FFFFFF?style=flat-square&labelColor=808080)
+<div align="center">
+  ![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-RED_TEAM-FF0000?style=flat-square&labelColor=808080)
+  ![Backend](https://img.shields.io/badge/ENGINEERING_FOUNDATION-BACKEND_DEVELOPMENT-60A5FA?style=flat-square&labelColor=808080)
+  ![Status](https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-FFFFFF?style=flat-square&labelColor=808080)
+</div>
 
 
 ---
