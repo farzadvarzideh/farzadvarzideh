@@ -41,6 +41,7 @@
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![Telegraf](https://img.shields.io/badge/Telegraf-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FF4438)
 
 **Environment & Tooling**
 
